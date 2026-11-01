@@ -1,3 +1,5 @@
+> **Moved.** Pocket Link now lives in the Automagik Pocket repo: [automagik-dev/automagik-pocket/desktop/pocket-link](https://github.com/automagik-dev/automagik-pocket/tree/dev/desktop/pocket-link). This repository is archived.
+
 # Pocket Link for Herdr
 
 Pair your phone with Herdr desktop like a TV pairs with a streaming account:
